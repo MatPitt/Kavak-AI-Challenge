@@ -40,8 +40,8 @@ app/
 
 1. Clonar el repositorio:
 ```bash
-git clone <repository-url>
-cd kavak
+git clone https://github.com/MatPitt/Kavak-AI-Challenge
+cd Kavak-AI-Challenge
 ```
 
 2. Crear y activar un entorno virtual:
