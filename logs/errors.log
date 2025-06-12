@@ -1,0 +1,175 @@
+2025-06-11 21:16:46,251 - kavak_errors - ERROR - whatsapp.py:32 - Error sending WhatsApp message: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACd3c014273a2196dd1a5312e75e521ea2/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACd3c014273a2196dd1a5312e75e521ea2 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+Traceback (most recent call last):
+  File "/Users/mateopitarch/Coding/kavak/app/api/whatsapp.py", line 24, in send_whatsapp_message
+    message = twilio_client.messages.create(
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/twilio/rest/api/v2010/account/message/__init__.py", line 589, in create
+    payload = self._version.create(
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/twilio/base/version.py", line 463, in create
+    return self._parse_create(method, uri, response)
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/twilio/base/version.py", line 435, in _parse_create
+    raise self.exception(method, uri, response, "Unable to create record")
+twilio.base.exceptions.TwilioRestException: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACd3c014273a2196dd1a5312e75e521ea2/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACd3c014273a2196dd1a5312e75e521ea2 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+
+2025-06-11 21:40:07,017 - kavak_errors - ERROR - whatsapp.py:32 - Error sending WhatsApp message: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACd3c014273a2196dd1a5312e75e521ea2/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACd3c014273a2196dd1a5312e75e521ea2 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+Traceback (most recent call last):
+  File "/Users/mateopitarch/Coding/kavak/app/api/whatsapp.py", line 24, in send_whatsapp_message
+    message = twilio_client.messages.create(
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/twilio/rest/api/v2010/account/message/__init__.py", line 589, in create
+    payload = self._version.create(
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/twilio/base/version.py", line 463, in create
+    return self._parse_create(method, uri, response)
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/twilio/base/version.py", line 435, in _parse_create
+    raise self.exception(method, uri, response, "Unable to create record")
+twilio.base.exceptions.TwilioRestException: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACd3c014273a2196dd1a5312e75e521ea2/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACd3c014273a2196dd1a5312e75e521ea2 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+
+2025-06-11 21:56:52,267 - kavak_errors - ERROR - whatsapp.py:32 - Error sending WhatsApp message: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACd3c014273a2196dd1a5312e75e521ea2/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACd3c014273a2196dd1a5312e75e521ea2 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+Traceback (most recent call last):
+  File "/Users/mateopitarch/Coding/kavak/app/api/whatsapp.py", line 24, in send_whatsapp_message
+    message = twilio_client.messages.create(
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/twilio/rest/api/v2010/account/message/__init__.py", line 589, in create
+    payload = self._version.create(
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/twilio/base/version.py", line 463, in create
+    return self._parse_create(method, uri, response)
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/twilio/base/version.py", line 435, in _parse_create
+    raise self.exception(method, uri, response, "Unable to create record")
+twilio.base.exceptions.TwilioRestException: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACd3c014273a2196dd1a5312e75e521ea2/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACd3c014273a2196dd1a5312e75e521ea2 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+
+2025-06-11 22:43:37,298 - kavak_errors - ERROR - car_recommendation.py:110 - Error getting car recommendations: Invalid comparison between dtype=float64 and str
+Traceback (most recent call last):
+  File "/Users/mateopitarch/Coding/kavak/app/services/car_recommendation.py", line 74, in get_recommendations
+    filtered_catalog = filtered_catalog[filtered_catalog['price'] <= preferences['budget']]
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/pandas/core/ops/common.py", line 76, in new_method
+    return method(self, other)
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/pandas/core/arraylike.py", line 52, in __le__
+    return self._cmp_method(other, operator.le)
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/pandas/core/series.py", line 6130, in _cmp_method
+    res_values = ops.comparison_op(lvalues, rvalues, op)
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/pandas/core/ops/array_ops.py", line 341, in comparison_op
+    return invalid_comparison(lvalues, rvalues, op)
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/pandas/core/ops/invalid.py", line 40, in invalid_comparison
+    raise TypeError(f"Invalid comparison between dtype={left.dtype} and {typ}")
+TypeError: Invalid comparison between dtype=float64 and str
+2025-06-11 22:43:50,586 - kavak_errors - ERROR - car_recommendation.py:110 - Error getting car recommendations: Invalid comparison between dtype=float64 and str
+Traceback (most recent call last):
+  File "/Users/mateopitarch/Coding/kavak/app/services/car_recommendation.py", line 74, in get_recommendations
+    filtered_catalog = filtered_catalog[filtered_catalog['price'] <= preferences['budget']]
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/pandas/core/ops/common.py", line 76, in new_method
+    return method(self, other)
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/pandas/core/arraylike.py", line 52, in __le__
+    return self._cmp_method(other, operator.le)
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/pandas/core/series.py", line 6130, in _cmp_method
+    res_values = ops.comparison_op(lvalues, rvalues, op)
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/pandas/core/ops/array_ops.py", line 341, in comparison_op
+    return invalid_comparison(lvalues, rvalues, op)
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/pandas/core/ops/invalid.py", line 40, in invalid_comparison
+    raise TypeError(f"Invalid comparison between dtype={left.dtype} and {typ}")
+TypeError: Invalid comparison between dtype=float64 and str
+2025-06-11 23:01:31,223 - kavak_errors - ERROR - whatsapp.py:32 - Error sending WhatsApp message: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/AC6452faf969b5ddc893fd1b6c5b83786a/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: A 'To' phone number is required.[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/21604[0m
+
+Traceback (most recent call last):
+  File "/Users/mateopitarch/Coding/kavak/app/api/whatsapp.py", line 24, in send_whatsapp_message
+    message = twilio_client.messages.create(
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/twilio/rest/api/v2010/account/message/__init__.py", line 589, in create
+    payload = self._version.create(
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/twilio/base/version.py", line 463, in create
+    return self._parse_create(method, uri, response)
+  File "/Users/mateopitarch/Library/Python/3.9/lib/python/site-packages/twilio/base/version.py", line 435, in _parse_create
+    raise self.exception(method, uri, response, "Unable to create record")
+twilio.base.exceptions.TwilioRestException: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/AC6452faf969b5ddc893fd1b6c5b83786a/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: A 'To' phone number is required.[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/21604[0m
+
+
+2025-06-11 23:09:05,751 - kavak_errors - ERROR - chat_service.py:74 - Error extracting preferences: name 'null' is not defined

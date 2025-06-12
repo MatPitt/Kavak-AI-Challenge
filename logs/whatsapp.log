@@ -1,0 +1,128 @@
+2025-06-11 21:16:44,105 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Hola! Quiero comprar un auto...
+2025-06-11 21:16:45,751 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 21:16:45,751 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 21:40:04,327 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Hola! Quiero comprar un auto...
+2025-06-11 21:40:06,307 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 21:40:06,307 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 21:54:45,586 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Hola probando...
+2025-06-11 21:54:47,138 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 21:54:47,139 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 21:54:47,646 - kavak_whatsapp - INFO - whatsapp.py:29 - Message sent successfully. SID: SMc32fdda27c88b7b89d09ea627a01e767
+2025-06-11 21:56:49,586 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Hola probando...
+2025-06-11 21:56:51,767 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 21:56:51,768 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 21:57:40,131 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Hola probando...
+2025-06-11 21:57:42,244 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 21:57:42,244 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 21:57:42,774 - kavak_whatsapp - INFO - whatsapp.py:29 - Message sent successfully. SID: SMb44c32377c26176faa265555c90a3575
+2025-06-11 21:57:54,432 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Quiero comprar un auto...
+2025-06-11 21:57:56,168 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 21:57:56,168 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 21:57:56,457 - kavak_whatsapp - INFO - whatsapp.py:29 - Message sent successfully. SID: SM371a84bb669a446979c84e4c1d25d0e1
+2025-06-11 22:39:50,352 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Hola! Quiero comprar un auto...
+2025-06-11 22:39:52,192 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 22:39:52,193 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 22:39:52,802 - kavak_whatsapp - INFO - whatsapp.py:29 - Message sent successfully. SID: SM74c4f4910292dc42101639a06e0857bd
+2025-06-11 22:40:10,272 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Estoy buscando modelos posteriores a 2018...
+2025-06-11 22:40:12,363 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 22:40:12,363 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 22:40:12,674 - kavak_whatsapp - INFO - whatsapp.py:29 - Message sent successfully. SID: SMbf5c2f477cda0f143c2b2b9c7388a27b
+2025-06-11 22:40:36,424 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: No tengo preferencias de marca, podrias darme una lista de esos modelos junto con sus precios...
+2025-06-11 22:40:38,155 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 22:40:38,155 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 22:40:38,582 - kavak_whatsapp - INFO - whatsapp.py:29 - Message sent successfully. SID: SM8bf339e3b9d82d41718d591d09ca7c95
+2025-06-11 22:40:48,309 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Seminuevo...
+2025-06-11 22:40:49,846 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 22:40:49,846 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 22:40:50,096 - kavak_whatsapp - INFO - whatsapp.py:29 - Message sent successfully. SID: SM8ddc3b917b9ee7794230b41a37452127
+2025-06-11 22:52:01,592 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Quiero ver autos modelo 2020...
+2025-06-11 22:52:02,924 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 22:52:02,924 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 22:52:04,074 - kavak_whatsapp - INFO - whatsapp.py:29 - Message sent successfully. SID: SM12f448c2522e62a21765a7952b51956c
+2025-06-11 22:52:14,851 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: No, ninguna marca en particular...
+2025-06-11 22:52:16,595 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 22:52:16,595 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 22:52:16,854 - kavak_whatsapp - INFO - whatsapp.py:29 - Message sent successfully. SID: SM7bd74728fa158629391c1d396dfbfa9c
+2025-06-11 22:52:24,713 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Autos compactos...
+2025-06-11 22:52:26,652 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 22:52:26,652 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 22:52:27,179 - kavak_whatsapp - INFO - whatsapp.py:29 - Message sent successfully. SID: SMe81b7022b6d1b0f47f3f4026a814a303
+2025-06-11 22:53:04,291 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Me gustaria ver todos los autos modelo 2020 que tengan disponibles...
+2025-06-11 22:53:06,216 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 22:53:06,216 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 22:53:06,607 - kavak_whatsapp - INFO - whatsapp.py:29 - Message sent successfully. SID: SM555e5969ca744d64680224f6f4b71cdf
+2025-06-11 22:53:37,061 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Claro...
+2025-06-11 22:53:38,864 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 22:53:38,864 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 22:53:39,161 - kavak_whatsapp - INFO - whatsapp.py:29 - Message sent successfully. SID: SM9371811a61438ffe42bc4d4e32f9fc87
+2025-06-11 22:57:46,171 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from whatsapp:+5491150559306: Hola...
+2025-06-11 22:57:48,166 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 22:57:48,166 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 22:57:48,598 - kavak_whatsapp - INFO - whatsapp.py:29 - Message sent successfully. SID: SM5934bd34a7dbdc03fea91f49c560a36a
+2025-06-11 23:01:28,777 - kavak_whatsapp - INFO - whatsapp.py:43 - Received WhatsApp message from : ...
+2025-06-11 23:01:30,706 - kavak_whatsapp - INFO - whatsapp.py:47 - Generated response for WhatsApp message
+2025-06-11 23:01:30,706 - kavak_whatsapp - INFO - whatsapp.py:23 - Sending WhatsApp message to 
+2025-06-11 23:08:35,898 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: Hola! Quiero comprar un auto...
+2025-06-11 23:08:37,818 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:08:37,818 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:08:38,575 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SM63d022ff5604cb20b2551da2f15cd524
+2025-06-11 23:09:04,419 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: Estoy buscando un auto pequeño con 5 años de antiguedad o menos...
+2025-06-11 23:09:07,282 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:09:07,283 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:09:07,537 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SM25e68bb22a1c35f03a5497ae391f23ba
+2025-06-11 23:09:26,477 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: No tengo ninguna preferencia de marca, quiero una lista de vehiculos y sus precios...
+2025-06-11 23:09:27,939 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:09:27,939 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:09:28,235 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SM282a897b44d6ff3812220da70c80f28a
+2025-06-11 23:10:04,853 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: Perfecto...
+2025-06-11 23:10:08,112 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:10:08,112 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:10:08,441 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SMb8d451f5df64da1dfdfeca1a2d09f97a
+2025-06-11 23:11:53,982 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: En que moneda estan los precios?...
+2025-06-11 23:11:55,786 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:11:55,786 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:11:56,473 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SM31feba53055e68e0f201c0ad806fdf7f
+2025-06-11 23:12:11,678 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: Perfecto, gracias!...
+2025-06-11 23:12:13,532 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:12:13,532 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:12:13,902 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SM496cd251242e7dedb06d8c8d894f5b6e
+2025-06-11 23:14:03,564 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: Hola! Quiero comprar un auto...
+2025-06-11 23:14:05,046 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:14:05,046 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:14:05,608 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SMe912609c512ab3546be61667723d0fb6
+2025-06-11 23:14:18,512 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: Estoy interesado en autos modelo 2020...
+2025-06-11 23:14:20,151 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:14:20,151 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:14:20,455 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SMa2dd8dc3e6d648968d0e65041b1ccc74
+2025-06-11 23:14:36,876 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: Estoy abierto a opciones, solo quiero conocer modelos y sus precios...
+2025-06-11 23:14:38,685 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:14:38,685 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:14:38,933 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SMe2b21a1aa2940f391326e487b351a73f
+2025-06-11 23:14:57,364 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: Prefiero autos sedan...
+2025-06-11 23:14:59,884 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:14:59,884 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:15:00,494 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SM0870d694e5f6f8a0f5c0350a1ba7ddda
+2025-06-11 23:15:14,835 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: Gracias!...
+2025-06-11 23:15:16,437 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:15:16,437 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:15:16,776 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SMd018bdf602e8095843dfa1a7522cf64d
+2025-06-11 23:16:37,983 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: Hola! Quiero comprar un auto...
+2025-06-11 23:16:39,521 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:16:39,521 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:16:40,848 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SM45aa99728ad8a23fccdb1c05f1b7cf7e
+2025-06-11 23:16:57,902 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: No tengo preferencias de marca...
+2025-06-11 23:16:59,690 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:16:59,690 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:16:59,998 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SMd6dfb5695265968542c0833521deacf3
+2025-06-11 23:17:17,205 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: Estoy buscando autos de 20 mil dolares aproximadamente...
+2025-06-11 23:17:20,170 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:17:20,170 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:17:20,682 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SMfd820aac24dfedf5ff42f2cd5074731b
+2025-06-11 23:17:41,880 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: Puedes darme mas opciones de autos modelo 2018?...
+2025-06-11 23:17:45,955 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:17:45,955 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:17:46,283 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SMc84656c911c5627af8e8aca55c05dded
+2025-06-11 23:18:14,653 - kavak_whatsapp - INFO - whatsapp.py:46 - Received WhatsApp message from whatsapp:+5491150559306: Muchas Gracias!...
+2025-06-11 23:18:16,289 - kavak_whatsapp - INFO - whatsapp.py:53 - Generated response for WhatsApp message
+2025-06-11 23:18:16,289 - kavak_whatsapp - INFO - whatsapp.py:26 - Sending WhatsApp message to whatsapp:+5491150559306
+2025-06-11 23:18:16,695 - kavak_whatsapp - INFO - whatsapp.py:32 - Message sent successfully. SID: SM261e30c0a1b0ec21e6ede0f655ecca03

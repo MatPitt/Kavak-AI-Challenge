@@ -1,0 +1,10 @@
+openai>=1.0.0
+python-dotenv
+flask>=2.0.0
+flask-cors
+pandas
+numpy
+twilio
+python-dateutil
+pytest
+gunicorn

@@ -1,0 +1,750 @@
+2025-06-11 21:16:30,785 - kavak_app - INFO - chat_service.py:22 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:16:30,785 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:16:30,785 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:16:30,787 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:16:30,787 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:16:30,825 - kavak_app - INFO - chat_service.py:22 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:16:30,825 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:16:30,825 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:16:30,826 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:16:30,826 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:16:30,828 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:16:31,432 - kavak_app - INFO - chat_service.py:22 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:16:31,432 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:16:31,432 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:16:31,433 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:16:31,434 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:16:31,461 - kavak_app - INFO - chat_service.py:22 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:16:31,461 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:16:31,461 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:16:31,462 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:16:31,462 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:16:31,463 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:16:44,106 - kavak_app - INFO - chat_service.py:37 - Processing user message: Hola! Quiero comprar un auto
+2025-06-11 21:16:45,751 - kavak_app - INFO - chat_service.py:67 - Successfully generated response from OpenAI
+2025-06-11 21:17:13,036 - kavak_app - INFO - chat_service.py:37 - Processing user message: que tasa tiene su financiacion?
+2025-06-11 21:17:15,229 - kavak_app - INFO - chat_service.py:67 - Successfully generated response from OpenAI
+2025-06-11 21:19:10,205 - kavak_app - INFO - chat_service.py:37 - Processing user message: Hola, quiero comprar un auto
+2025-06-11 21:19:11,257 - kavak_app - INFO - chat_service.py:67 - Successfully generated response from OpenAI
+2025-06-11 21:19:30,536 - kavak_app - INFO - chat_service.py:37 - Processing user message: Estoy buscando un auto pequeño y tengo un presupuesto de 20 mil dolares
+2025-06-11 21:19:32,178 - kavak_app - INFO - chat_service.py:67 - Successfully generated response from OpenAI
+2025-06-11 21:19:53,009 - kavak_app - INFO - chat_service.py:37 - Processing user message: Ninguna preferencia, quiero conocer distintos modelos y sus precios
+2025-06-11 21:19:54,674 - kavak_app - INFO - chat_service.py:67 - Successfully generated response from OpenAI
+2025-06-11 21:20:00,729 - kavak_app - INFO - chat_service.py:37 - Processing user message: Ninguna preferencia, quiero conocer distintos modelos y sus precios
+2025-06-11 21:20:01,886 - kavak_app - INFO - chat_service.py:67 - Successfully generated response from OpenAI
+2025-06-11 21:20:20,652 - kavak_app - INFO - chat_service.py:37 - Processing user message: Mi presupuesto es de 20 mil dolares
+2025-06-11 21:20:22,289 - kavak_app - INFO - chat_service.py:67 - Successfully generated response from OpenAI
+2025-06-11 21:20:35,002 - kavak_app - INFO - chat_service.py:37 - Processing user message: Me interesa un auto compacto
+2025-06-11 21:20:36,041 - kavak_app - INFO - chat_service.py:67 - Successfully generated response from OpenAI
+2025-06-11 21:20:53,801 - kavak_app - INFO - chat_service.py:37 - Processing user message: Marcas Europeas
+2025-06-11 21:20:57,586 - kavak_app - INFO - chat_service.py:67 - Successfully generated response from OpenAI
+2025-06-11 21:21:58,411 - kavak_app - INFO - chat_service.py:22 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:21:58,411 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:21:58,411 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:21:58,413 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:21:58,413 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:21:58,448 - kavak_app - INFO - chat_service.py:22 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:21:58,448 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:21:58,448 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:21:58,449 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:21:58,449 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:21:58,451 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:22:14,234 - kavak_app - INFO - car_service.py:14 - Car catalog loaded successfully with 100 vehicles
+2025-06-11 21:22:14,234 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:22:14,234 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:22:14,234 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:22:14,235 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:22:14,235 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:22:14,263 - kavak_app - INFO - car_service.py:14 - Car catalog loaded successfully with 100 vehicles
+2025-06-11 21:22:14,263 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:22:14,263 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:22:14,263 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:22:14,264 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:22:14,264 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:22:14,266 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:22:52,675 - kavak_app - INFO - chat_service.py:22 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:22:52,675 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:22:52,675 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:22:52,677 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:22:52,677 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:22:52,712 - kavak_app - INFO - chat_service.py:22 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:22:52,712 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:22:52,712 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:22:52,713 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:22:52,713 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:22:52,715 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:24:13,085 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:24:13,085 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:24:13,086 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:24:13,086 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:24:13,086 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:24:13,087 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:24:13,087 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:24:13,087 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:24:13,113 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:24:13,113 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:24:13,114 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:24:13,114 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:24:13,114 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:24:13,114 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:24:13,115 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:24:13,115 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:24:13,117 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:24:42,835 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:24:42,835 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:24:42,837 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:24:42,837 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:24:42,837 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:24:42,837 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:24:42,837 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:24:42,838 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:24:42,866 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:24:42,866 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:24:42,867 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:24:42,867 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:24:42,867 - kavak_app - INFO - car_recommendation.py:8 - Initializing CarRecommendationService
+2025-06-11 21:24:42,867 - kavak_app - INFO - car_recommendation.py:14 - Loading car catalog from: data/sample_caso_ai_engineer.csv
+2025-06-11 21:24:42,868 - kavak_app - INFO - car_recommendation.py:16 - Successfully loaded catalog with 100 cars
+2025-06-11 21:24:42,868 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:24:42,870 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:25:50,663 - kavak_app - INFO - chat_service.py:114 - Processing user message: Hola, quiero comprar un vehiculo
+2025-06-11 21:25:52,876 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:26:05,624 - kavak_app - INFO - chat_service.py:114 - Processing user message: Estoy buscando un vehiculo pequeño
+2025-06-11 21:26:07,005 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:26:19,716 - kavak_app - INFO - chat_service.py:114 - Processing user message: Quiero gastar hasta 20 mil dolares
+2025-06-11 21:26:20,423 - kavak_app - INFO - car_recommendation.py:40 - Getting car recommendations with preferences: {'budget': 20000}
+2025-06-11 21:26:20,431 - kavak_app - INFO - car_recommendation.py:79 - Found 0 recommendations
+2025-06-11 21:26:21,448 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:26:41,541 - kavak_app - INFO - chat_service.py:114 - Processing user message: Quiero que me des distintas opciones con sus precios
+2025-06-11 21:26:43,257 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:27:30,217 - kavak_app - INFO - chat_service.py:114 - Processing user message: Quiero que me des distintas opciones con sus precios de autos modelo 2018 o mas nuevos
+2025-06-11 21:27:30,841 - kavak_app - INFO - car_recommendation.py:40 - Getting car recommendations with preferences: {'year_min': 2018}
+2025-06-11 21:27:30,842 - kavak_app - WARNING - car_recommendation.py:43 - No recommendations possible: catalog is empty
+2025-06-11 21:27:31,757 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:27:38,886 - kavak_app - INFO - chat_service.py:114 - Processing user message: No
+2025-06-11 21:27:40,502 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:28:39,564 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:28:39,564 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:28:39,565 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:28:39,566 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:28:39,566 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:28:39,566 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:28:39,566 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:28:39,566 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:28:39,601 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:28:39,601 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:28:39,602 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:28:39,602 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:28:39,602 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:28:39,602 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:28:39,603 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:28:39,603 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:28:39,605 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:28:52,211 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:28:52,212 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:28:52,213 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:28:52,213 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:28:52,213 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:28:52,213 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:28:52,214 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:28:52,214 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:28:52,239 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:28:52,239 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:28:52,240 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:28:52,240 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:28:52,240 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:28:52,240 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:28:52,241 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:28:52,241 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:28:52,243 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:29:06,981 - kavak_app - INFO - chat_service.py:114 - Processing user message: Hola, quiero autos mas nuevos que modelo 2018
+2025-06-11 21:29:07,681 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'year_min': 2018}
+2025-06-11 21:29:07,685 - kavak_app - INFO - car_recommendation.py:105 - Found 5 recommendations
+2025-06-11 21:29:08,362 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:29:22,909 - kavak_app - INFO - chat_service.py:114 - Processing user message: Tengo un presupuesto de 20 mil dolares
+2025-06-11 21:29:23,601 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'budget': 20000}
+2025-06-11 21:29:23,603 - kavak_app - INFO - car_recommendation.py:105 - Found 0 recommendations
+2025-06-11 21:29:24,594 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:29:54,278 - kavak_app - INFO - chat_service.py:114 - Processing user message: No, solo quiero una lista para ver las opciones con sus respectivos precios
+2025-06-11 21:29:55,727 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:33:22,845 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:33:22,845 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:33:22,846 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:33:22,846 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:33:22,846 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:33:22,846 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:33:22,847 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:33:22,847 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:33:22,875 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:33:22,875 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:33:22,876 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:33:22,876 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:33:22,876 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:33:22,876 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:33:22,877 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:33:22,877 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:33:22,879 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:33:23,495 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:33:23,495 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:33:23,497 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:33:23,497 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:33:23,497 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:33:23,497 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:33:23,498 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:33:23,498 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:33:23,524 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:33:23,524 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:33:23,525 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:33:23,525 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:33:23,525 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:33:23,525 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:33:23,526 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:33:23,526 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:33:23,527 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:33:42,306 - kavak_app - INFO - chat_service.py:114 - Processing user message: Que autos toyota tienes disponibles?
+2025-06-11 21:33:43,114 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'brand': 'Toyota'}
+2025-06-11 21:33:43,116 - kavak_app - INFO - car_recommendation.py:105 - Found 4 recommendations
+2025-06-11 21:33:44,443 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:34:03,499 - kavak_app - INFO - chat_service.py:114 - Processing user message: quiero ver los modelos de 2018 en adelante
+2025-06-11 21:34:04,161 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'year_min': 2018}
+2025-06-11 21:34:04,163 - kavak_app - INFO - car_recommendation.py:105 - Found 5 recommendations
+2025-06-11 21:34:08,855 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:39:55,177 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:39:55,177 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:39:55,179 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:39:55,179 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:39:55,179 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:39:55,179 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:39:55,179 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:39:55,180 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:39:55,206 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:39:55,206 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:39:55,207 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:39:55,208 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:39:55,208 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:39:55,208 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:39:55,208 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:39:55,208 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:39:55,210 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:39:55,829 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:39:55,829 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:39:55,831 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:39:55,831 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:39:55,831 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:39:55,831 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:39:55,831 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:39:55,832 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:39:55,858 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:39:55,858 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:39:55,859 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:39:55,859 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:39:55,859 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:39:55,859 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:39:55,860 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:39:55,860 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:39:55,862 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:40:04,328 - kavak_app - INFO - chat_service.py:114 - Processing user message: Hola! Quiero comprar un auto
+2025-06-11 21:40:06,306 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:51:52,656 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:51:52,657 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:51:52,658 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:51:52,658 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:51:52,658 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:51:52,658 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:51:52,659 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:51:52,659 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:51:52,695 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:51:52,695 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:51:52,696 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:51:52,696 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:51:52,696 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:51:52,696 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:51:52,697 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:51:52,697 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:51:52,699 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:51:53,338 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:51:53,338 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:51:53,340 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:51:53,340 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:51:53,340 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:51:53,340 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:51:53,340 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:51:53,340 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:51:53,366 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:51:53,366 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:51:53,367 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:51:53,367 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:51:53,367 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:51:53,367 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:51:53,368 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:51:53,368 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:51:53,369 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:52:08,894 - kavak_app - INFO - chat_service.py:114 - Processing user message: quiero ver los modelos de 2018 en adelante
+2025-06-11 21:52:09,952 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'year_min': 2018}
+2025-06-11 21:52:09,954 - kavak_app - INFO - car_recommendation.py:105 - Found 5 recommendations
+2025-06-11 21:52:12,552 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:53:03,022 - kavak_app - INFO - chat_service.py:114 - Processing user message: quiero ver los modelos de 2018 en adelante
+2025-06-11 21:53:04,134 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'year_min': 2018}
+2025-06-11 21:53:04,135 - kavak_app - INFO - car_recommendation.py:105 - Found 5 recommendations
+2025-06-11 21:53:07,435 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:54:45,586 - kavak_app - INFO - chat_service.py:114 - Processing user message: Hola probando
+2025-06-11 21:54:47,138 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:56:49,587 - kavak_app - INFO - chat_service.py:114 - Processing user message: Hola probando
+2025-06-11 21:56:51,767 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:57:34,850 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:57:34,850 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:57:34,851 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:57:34,851 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:57:34,851 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:57:34,851 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:57:34,852 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:57:34,852 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:57:34,888 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:57:34,889 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:57:34,889 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:57:34,890 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:57:34,890 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:57:34,890 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:57:34,890 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:57:34,890 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:57:34,892 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:57:35,497 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:57:35,497 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:57:35,499 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:57:35,499 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:57:35,499 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:57:35,499 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:57:35,500 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:57:35,500 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:57:35,526 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:57:35,526 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:57:35,527 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:57:35,527 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 21:57:35,527 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 21:57:35,527 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 21:57:35,527 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 21:57:35,528 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 21:57:35,529 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 21:57:40,132 - kavak_app - INFO - chat_service.py:114 - Processing user message: Hola probando
+2025-06-11 21:57:42,244 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 21:57:54,432 - kavak_app - INFO - chat_service.py:114 - Processing user message: Quiero comprar un auto
+2025-06-11 21:57:56,168 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 22:32:44,889 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:32:44,889 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:32:44,892 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:32:44,892 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:32:44,892 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:32:44,892 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:32:44,893 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:32:44,893 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:32:44,929 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:32:44,929 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:32:44,930 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:32:44,930 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:32:44,930 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:32:44,930 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:32:44,930 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:32:44,931 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:32:44,932 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 22:32:45,560 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:32:45,560 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:32:45,562 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:32:45,562 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:32:45,562 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:32:45,562 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:32:45,563 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:32:45,563 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:32:45,589 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:32:45,589 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:32:45,590 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:32:45,590 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:32:45,590 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:32:45,590 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:32:45,590 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:32:45,590 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:32:45,592 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 22:32:55,918 - kavak_app - INFO - chat_service.py:114 - Processing user message: Hola!
+2025-06-11 22:32:57,909 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 22:33:09,989 - kavak_app - INFO - chat_service.py:114 - Processing user message: Quien eres?
+2025-06-11 22:33:12,104 - kavak_app - INFO - chat_service.py:155 - Successfully generated response from OpenAI
+2025-06-11 22:33:26,393 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:33:26,394 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:33:26,395 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:33:26,395 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:33:26,395 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:33:26,395 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:33:26,396 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:33:26,396 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:33:26,422 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:33:26,422 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:33:26,423 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:33:26,423 - kavak_app - INFO - chat_service.py:40 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:33:26,423 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:33:26,423 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:33:26,424 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:33:26,424 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:33:26,426 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 22:34:28,272 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:34:28,272 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:34:28,274 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:34:28,274 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:34:28,274 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:34:28,274 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:34:28,275 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:34:28,275 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:34:28,301 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:34:28,301 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:34:28,302 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:34:28,302 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:34:28,302 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:34:28,302 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:34:28,303 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:34:28,303 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:34:28,305 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 22:34:34,441 - kavak_app - INFO - chat_service.py:115 - Processing user message: Hola?
+2025-06-11 22:34:36,484 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:34:49,290 - kavak_app - INFO - chat_service.py:115 - Processing user message: Quiero comprar un auto
+2025-06-11 22:34:51,538 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:35:22,227 - kavak_app - INFO - chat_service.py:115 - Processing user message: Estoy buscando un auto modelo 2018 o posterior
+2025-06-11 22:35:22,770 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'year_min': 2018}
+2025-06-11 22:35:22,777 - kavak_app - INFO - car_recommendation.py:105 - Found 5 recommendations
+2025-06-11 22:35:23,769 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:35:39,217 - kavak_app - INFO - chat_service.py:115 - Processing user message: Tengo preferencia de marcas europeas
+2025-06-11 22:35:40,279 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'brand': 'europea'}
+2025-06-11 22:35:40,281 - kavak_app - INFO - car_recommendation.py:105 - Found 0 recommendations
+2025-06-11 22:35:41,304 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:35:54,378 - kavak_app - INFO - chat_service.py:115 - Processing user message: Quiero ver opciones junto a sus precios
+2025-06-11 22:35:55,945 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:36:16,922 - kavak_app - INFO - chat_service.py:115 - Processing user message: Quiero ver autos pequeños, mi presupuesto es de 20 mil dolares
+2025-06-11 22:36:17,555 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'budget': 20000}
+2025-06-11 22:36:17,556 - kavak_app - INFO - car_recommendation.py:105 - Found 0 recommendations
+2025-06-11 22:36:18,582 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:36:37,314 - kavak_app - INFO - chat_service.py:115 - Processing user message: Me gusta volkswagen
+2025-06-11 22:36:37,935 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'brand': 'volkswagen'}
+2025-06-11 22:36:37,939 - kavak_app - INFO - car_recommendation.py:105 - Found 5 recommendations
+2025-06-11 22:36:39,282 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:37:01,550 - kavak_app - INFO - chat_service.py:115 - Processing user message: Quiero una lista de vehiculos
+2025-06-11 22:37:02,906 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:37:20,295 - kavak_app - INFO - chat_service.py:115 - Processing user message: Quiero una lista de vehiculos de autos modelo 2018 o mas nuevos con sus precios
+2025-06-11 22:37:21,574 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'year_min': 2018}
+2025-06-11 22:37:21,576 - kavak_app - INFO - car_recommendation.py:105 - Found 5 recommendations
+2025-06-11 22:37:24,220 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:37:51,147 - kavak_app - INFO - chat_service.py:115 - Processing user message: Quiero mas detalles sobre el volkswagen gol
+2025-06-11 22:37:53,140 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:38:11,817 - kavak_app - INFO - chat_service.py:115 - Processing user message: No, quiero conocer datos en general del modelo
+2025-06-11 22:38:13,067 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:38:45,175 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:38:45,175 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:38:45,177 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:38:45,177 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:38:45,177 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:38:45,177 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:38:45,178 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:38:45,178 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:38:45,213 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:38:45,213 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:38:45,214 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:38:45,214 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:38:45,214 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:38:45,214 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:38:45,215 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:38:45,215 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:38:45,216 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 22:38:45,836 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:38:45,836 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:38:45,838 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:38:45,838 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:38:45,838 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:38:45,838 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:38:45,838 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:38:45,838 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:38:45,864 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:38:45,864 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:38:45,865 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:38:45,865 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:38:45,865 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:38:45,865 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:38:45,866 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:38:45,866 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:38:45,867 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 22:39:28,039 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:39:28,040 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:39:28,043 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:39:28,044 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:39:28,044 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:39:28,044 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:39:28,045 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:39:28,045 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:39:28,083 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:39:28,083 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:39:28,084 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:39:28,084 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:39:28,084 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:39:28,084 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:39:28,084 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:39:28,085 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:39:28,086 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 22:39:28,775 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:39:28,775 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:39:28,777 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:39:28,777 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:39:28,777 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:39:28,777 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:39:28,777 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:39:28,778 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:39:28,803 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:39:28,803 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:39:28,804 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:39:28,804 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:39:28,804 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:39:28,804 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:39:28,805 - kavak_app - INFO - car_recommendation.py:26 - Successfully loaded catalog with 100 cars
+2025-06-11 22:39:28,805 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:39:28,806 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 22:39:50,352 - kavak_app - INFO - chat_service.py:115 - Processing user message: Hola! Quiero comprar un auto
+2025-06-11 22:39:52,192 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:40:10,273 - kavak_app - INFO - chat_service.py:115 - Processing user message: Estoy buscando modelos posteriores a 2018
+2025-06-11 22:40:10,807 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'year_min': 2018}
+2025-06-11 22:40:10,815 - kavak_app - INFO - car_recommendation.py:105 - Found 5 recommendations
+2025-06-11 22:40:12,363 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:40:36,426 - kavak_app - INFO - chat_service.py:115 - Processing user message: No tengo preferencias de marca, podrias darme una lista de esos modelos junto con sus precios
+2025-06-11 22:40:38,153 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:40:48,310 - kavak_app - INFO - chat_service.py:115 - Processing user message: Seminuevo
+2025-06-11 22:40:49,845 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:42:14,843 - kavak_app - INFO - chat_service.py:115 - Processing user message: Hola, quiero comprar un auto
+2025-06-11 22:42:16,910 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:42:38,672 - kavak_app - INFO - chat_service.py:115 - Processing user message: No tengo nada claro, solo quiero conocer mas sobre los modelos
+2025-06-11 22:42:40,255 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:42:58,388 - kavak_app - INFO - chat_service.py:115 - Processing user message: Estoy buscando autos modelo 2018
+2025-06-11 22:42:59,280 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'year_min': 2018, 'year_max': 2018}
+2025-06-11 22:42:59,283 - kavak_app - INFO - car_recommendation.py:105 - Found 5 recommendations
+2025-06-11 22:43:00,303 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:43:16,650 - kavak_app - INFO - chat_service.py:115 - Processing user message: No tengo preferencia de marca
+2025-06-11 22:43:18,506 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:43:35,919 - kavak_app - INFO - chat_service.py:115 - Processing user message: Estoy interesado en autos pequeños
+2025-06-11 22:43:37,297 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'brand': 'no especificado', 'model': 'no especificado', 'budget': 'no especificado', 'year_min': 'no especificado', 'year_max': 'no especificado'}
+2025-06-11 22:43:38,194 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:43:49,618 - kavak_app - INFO - chat_service.py:115 - Processing user message: Quiero autos accesibles
+2025-06-11 22:43:50,585 - kavak_app - INFO - car_recommendation.py:63 - Getting car recommendations with preferences: {'budget': 'accesible'}
+2025-06-11 22:43:52,144 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:50:27,574 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:50:27,574 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:50:27,576 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 22:50:27,576 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:50:27,576 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:50:27,576 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:50:27,577 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 22:50:27,577 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:50:27,614 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:50:27,614 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:50:27,615 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 22:50:27,615 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:50:27,615 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:50:27,615 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:50:27,616 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 22:50:27,616 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:50:27,618 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 22:50:44,532 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:50:44,533 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:50:44,534 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 22:50:44,535 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:50:44,535 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:50:44,535 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:50:44,535 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 22:50:44,536 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:50:44,571 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:50:44,571 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:50:44,572 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 22:50:44,572 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 22:50:44,572 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 22:50:44,572 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 22:50:44,573 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 22:50:44,573 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 22:50:44,574 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 22:50:57,200 - kavak_app - INFO - chat_service.py:115 - Processing user message: Hola! Quiero comprar un auto
+2025-06-11 22:50:58,871 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:51:12,064 - kavak_app - INFO - chat_service.py:115 - Processing user message: Estoy buscando autos con 5 años de antiguedad
+2025-06-11 22:51:12,593 - kavak_app - INFO - car_recommendation.py:71 - Getting car recommendations with preferences: {'year_max': 5}
+2025-06-11 22:51:12,598 - kavak_app - INFO - car_recommendation.py:130 - Found 0 recommendations
+2025-06-11 22:51:14,374 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:51:30,945 - kavak_app - INFO - chat_service.py:115 - Processing user message: Me gustaria ver modelos de autos 2020
+2025-06-11 22:51:31,694 - kavak_app - INFO - car_recommendation.py:71 - Getting car recommendations with preferences: {'year_min': 2020, 'year_max': 2020}
+2025-06-11 22:51:31,698 - kavak_app - INFO - car_recommendation.py:130 - Found 5 recommendations
+2025-06-11 22:51:35,146 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:52:01,592 - kavak_app - INFO - chat_service.py:115 - Processing user message: Quiero ver autos modelo 2020
+2025-06-11 22:52:02,168 - kavak_app - INFO - car_recommendation.py:71 - Getting car recommendations with preferences: {'model': '2020'}
+2025-06-11 22:52:02,173 - kavak_app - INFO - car_recommendation.py:130 - Found 0 recommendations
+2025-06-11 22:52:02,923 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:52:14,852 - kavak_app - INFO - chat_service.py:115 - Processing user message: No, ninguna marca en particular
+2025-06-11 22:52:16,594 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:52:24,714 - kavak_app - INFO - chat_service.py:115 - Processing user message: Autos compactos
+2025-06-11 22:52:26,652 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:53:04,292 - kavak_app - INFO - chat_service.py:115 - Processing user message: Me gustaria ver todos los autos modelo 2020 que tengan disponibles
+2025-06-11 22:53:05,019 - kavak_app - INFO - car_recommendation.py:71 - Getting car recommendations with preferences: {'model': '2020'}
+2025-06-11 22:53:05,022 - kavak_app - INFO - car_recommendation.py:130 - Found 0 recommendations
+2025-06-11 22:53:06,215 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:53:37,061 - kavak_app - INFO - chat_service.py:115 - Processing user message: Claro
+2025-06-11 22:53:38,864 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:54:53,111 - kavak_app - INFO - chat_service.py:115 - Processing user message: Hola
+2025-06-11 22:54:54,187 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:57:46,171 - kavak_app - INFO - chat_service.py:115 - Processing user message: Hola
+2025-06-11 22:57:48,165 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 22:57:58,816 - kavak_app - INFO - chat_service.py:115 - Processing user message: Hola
+2025-06-11 22:58:00,047 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:01:28,778 - kavak_app - INFO - chat_service.py:115 - Processing user message: 
+2025-06-11 23:01:30,706 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:01:56,536 - kavak_app - INFO - chat_service.py:115 - Processing user message: Me gustaria ver modelos de autos 2020
+2025-06-11 23:01:57,197 - kavak_app - INFO - car_recommendation.py:71 - Getting car recommendations with preferences: {'year_min': 2020, 'year_max': 2020}
+2025-06-11 23:01:57,202 - kavak_app - INFO - car_recommendation.py:130 - Found 5 recommendations
+2025-06-11 23:01:58,309 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:07:26,780 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:07:26,780 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:07:26,781 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:07:26,781 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 23:07:26,781 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:07:26,782 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:07:26,782 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:07:26,782 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 23:07:26,818 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:07:26,818 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:07:26,819 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:07:26,819 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 23:07:26,819 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:07:26,819 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:07:26,820 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:07:26,820 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 23:07:26,822 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 23:07:50,159 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:07:50,160 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:07:50,161 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:07:50,161 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 23:07:50,161 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:07:50,161 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:07:50,162 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:07:50,162 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 23:07:50,188 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:07:50,189 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:07:50,190 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:07:50,190 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 23:07:50,190 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:07:50,190 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:07:50,191 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:07:50,191 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 23:07:50,192 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 23:08:35,899 - kavak_app - INFO - chat_service.py:115 - Processing user message: Hola! Quiero comprar un auto
+2025-06-11 23:08:37,818 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:09:04,419 - kavak_app - INFO - chat_service.py:115 - Processing user message: Estoy buscando un auto pequeño con 5 años de antiguedad o menos
+2025-06-11 23:09:07,282 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:09:26,478 - kavak_app - INFO - chat_service.py:115 - Processing user message: No tengo ninguna preferencia de marca, quiero una lista de vehiculos y sus precios
+2025-06-11 23:09:27,938 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:10:04,854 - kavak_app - INFO - chat_service.py:115 - Processing user message: Perfecto
+2025-06-11 23:10:08,111 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:11:53,982 - kavak_app - INFO - chat_service.py:115 - Processing user message: En que moneda estan los precios?
+2025-06-11 23:11:54,890 - kavak_app - INFO - car_recommendation.py:71 - Getting car recommendations with preferences: {'budget': 'presupuesto máximo', 'brand': 'marca del auto', 'model': 'modelo del auto', 'year_min': 'año mínimo', 'year_max': 'año máximo'}
+2025-06-11 23:11:54,890 - kavak_app - WARNING - car_recommendation.py:87 - Invalid budget value: presupuesto máximo
+2025-06-11 23:11:54,891 - kavak_app - WARNING - car_recommendation.py:118 - Invalid year_min value: año mínimo
+2025-06-11 23:11:54,891 - kavak_app - WARNING - car_recommendation.py:126 - Invalid year_max value: año máximo
+2025-06-11 23:11:54,892 - kavak_app - INFO - car_recommendation.py:130 - Found 0 recommendations
+2025-06-11 23:11:55,785 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:12:11,679 - kavak_app - INFO - chat_service.py:115 - Processing user message: Perfecto, gracias!
+2025-06-11 23:12:13,531 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:13:39,020 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:13:39,020 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:13:39,022 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:13:39,022 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 23:13:39,022 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:13:39,022 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:13:39,023 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:13:39,023 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 23:13:39,059 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:13:39,059 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:13:39,060 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:13:39,060 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 23:13:39,060 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:13:39,060 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:13:39,061 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:13:39,061 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 23:13:39,063 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 23:13:39,698 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:13:39,698 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:13:39,700 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:13:39,700 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 23:13:39,700 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:13:39,700 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:13:39,701 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:13:39,701 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 23:13:39,727 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:13:39,727 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:13:39,728 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:13:39,728 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 23:13:39,728 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:13:39,728 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:13:39,729 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:13:39,729 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 23:13:39,731 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 23:13:50,817 - kavak_app - INFO - chat_service.py:115 - Processing user message: Hola!
+2025-06-11 23:13:53,118 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:14:03,564 - kavak_app - INFO - chat_service.py:115 - Processing user message: Hola! Quiero comprar un auto
+2025-06-11 23:14:05,046 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:14:18,513 - kavak_app - INFO - chat_service.py:115 - Processing user message: Estoy interesado en autos modelo 2020
+2025-06-11 23:14:19,024 - kavak_app - INFO - car_recommendation.py:71 - Getting car recommendations with preferences: {'model': '2020'}
+2025-06-11 23:14:19,027 - kavak_app - INFO - car_recommendation.py:130 - Found 0 recommendations
+2025-06-11 23:14:20,151 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:14:36,876 - kavak_app - INFO - chat_service.py:115 - Processing user message: Estoy abierto a opciones, solo quiero conocer modelos y sus precios
+2025-06-11 23:14:38,684 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:14:57,365 - kavak_app - INFO - chat_service.py:115 - Processing user message: Prefiero autos sedan
+2025-06-11 23:14:59,884 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:15:14,835 - kavak_app - INFO - chat_service.py:115 - Processing user message: Gracias!
+2025-06-11 23:15:16,436 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:16:12,223 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:16:12,223 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:16:12,226 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:16:12,227 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 23:16:12,227 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:16:12,227 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:16:12,228 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:16:12,228 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 23:16:12,264 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:16:12,264 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:16:12,266 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:16:12,266 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 23:16:12,266 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:16:12,266 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:16:12,267 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:16:12,267 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 23:16:12,268 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 23:16:12,932 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:16:12,932 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:16:12,934 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:16:12,934 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 23:16:12,934 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:16:12,934 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:16:12,935 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:16:12,935 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 23:16:12,961 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:16:12,961 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:16:12,962 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:16:12,962 - kavak_app - INFO - chat_service.py:41 - ChatService initialized with OpenAI model: gpt-3.5-turbo
+2025-06-11 23:16:12,962 - kavak_app - INFO - car_recommendation.py:9 - Initializing CarRecommendationService
+2025-06-11 23:16:12,962 - kavak_app - INFO - car_recommendation.py:19 - Loading car catalog from: /Users/mateopitarch/Coding/kavak/data/sample_caso_ai_engineer.csv
+2025-06-11 23:16:12,963 - kavak_app - INFO - car_recommendation.py:34 - Successfully loaded catalog with 100 cars
+2025-06-11 23:16:12,963 - kavak_app - INFO - financing_service.py:11 - Initialized FinancingService with interest rate: 10.00%, terms: 36-72 months
+2025-06-11 23:16:12,965 - kavak_app - INFO - __init__.py:22 - Application initialized successfully
+2025-06-11 23:16:18,119 - kavak_app - INFO - chat_service.py:115 - Processing user message: Hola!
+2025-06-11 23:16:19,547 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:16:26,038 - kavak_app - INFO - chat_service.py:115 - Processing user message: Hola! Quiero comprar un auto
+2025-06-11 23:16:27,307 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:16:37,983 - kavak_app - INFO - chat_service.py:115 - Processing user message: Hola! Quiero comprar un auto
+2025-06-11 23:16:39,521 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:16:57,903 - kavak_app - INFO - chat_service.py:115 - Processing user message: No tengo preferencias de marca
+2025-06-11 23:16:59,690 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:17:17,206 - kavak_app - INFO - chat_service.py:115 - Processing user message: Estoy buscando autos de 20 mil dolares aproximadamente
+2025-06-11 23:17:18,019 - kavak_app - INFO - car_recommendation.py:71 - Getting car recommendations with preferences: {'budget': 20000}
+2025-06-11 23:17:18,023 - kavak_app - INFO - car_recommendation.py:130 - Found 0 recommendations
+2025-06-11 23:17:20,169 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:17:41,880 - kavak_app - INFO - chat_service.py:115 - Processing user message: Puedes darme mas opciones de autos modelo 2018?
+2025-06-11 23:17:42,780 - kavak_app - INFO - car_recommendation.py:71 - Getting car recommendations with preferences: {'year_min': 2018, 'year_max': 2018}
+2025-06-11 23:17:42,785 - kavak_app - INFO - car_recommendation.py:130 - Found 5 recommendations
+2025-06-11 23:17:45,954 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
+2025-06-11 23:18:14,653 - kavak_app - INFO - chat_service.py:115 - Processing user message: Muchas Gracias!
+2025-06-11 23:18:16,288 - kavak_app - INFO - chat_service.py:156 - Successfully generated response from OpenAI
