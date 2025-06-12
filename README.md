@@ -77,14 +77,14 @@ FLASK_SECRET_KEY=your_secret_key
 python run.py
 ```
 
-2. El servidor estará disponible en `http://localhost:5000`
+2. El servidor estará disponible en `http://localhost:8080`
 
 ## Ejemplo de Uso
 
 ### Probar el Chat Service
 
 ```bash
-curl -X POST http://localhost:5000/api/chat \
+curl -X POST http://localhost:8080/api/chat \
   -H "Content-Type: application/json" \
   -d '{
     "message": "¿Qué autos Toyota tienes disponibles?",
